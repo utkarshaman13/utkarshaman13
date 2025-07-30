@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech in CSE (Cyber Security) @ SRM IST (2026) 
   
   Cybersecurity | Secure Software Development | AI/ML Enthusiast  
-  Exploring malware analysis, vulnerability assessment & penetration testing</h3>
+  Exploring Malware Analysis, Vulnerability Assessment & Penetration Testing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshaman13&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshaman13" /> </p>
 
